@@ -4,32 +4,19 @@
 
 Full stack developer currently building software at Meyer Distributing.
 I have a strong professional background in building Angular apps, but I work with React too.
-I also build web APIs with .NET, but I'm stack agnostic and interested in learning new tools.
+I also build web APIs with C# and .NET.
 
 Currently looking for new work and setting down new roots!
 
 ## My Work
-- [My New Portfolio (WIP)](https://github.com/Travisaurus-Rex/ReactPortfolio) - via React
-- [Not By The Cover - Find New Books](https://github.com/Travisaurus-Rex/nocovers) - via Angular, NodeJS
-- [Image Magnifier Component](https://github.com/Travisaurus-Rex/NgImageMagnifier) - via Angular
-- [Spotter Music App](https://github.com/Travisaurus-Rex/spotter) - via React, Spotify API
-- [Musical Discovery (ANOTHER music app!)](https://github.com/Travisaurus-Rex/sound_test) - via JavaScript, Soundcloud API
-- [Grocery List App - Tracks how much you're spending](https://github.com/Travisaurus-Rex/grocerycontrol/tree/master/src) - via Angular, Ionic
-- [4 Legged Friends - Find Pets for Adoption](https://github.com/Travisaurus-Rex/4lf) - via React Native
-- [Pet Finder - NodeJS API for 4 Legged Friends](https://github.com/Travisaurus-Rex/petfinder) - via NodeJS
 
-
-<!--
-**Travisaurus-Rex/Travisaurus-Rex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Project                | Description                                                                                |
+|------------------------|--------------------------------------------------------------------------------------------|
+| [Portfolio (WIP)](https://github.com/Travisaurus-Rex/ReactPortfolio)        | My current/upcoming portfolio - via React                                                  |
+| [Not By The Cover](https://github.com/Travisaurus-Rex/nocovers)       | Experimental app that lets you find books without judging them by the cover - Angular      |
+| [NgxImageMagnifier](https://github.com/Travisaurus-Rex/NgImageMagnifier)     | Standalone component that magnifies images when the user hovers over them - Angular        |
+| [Spotter](https://github.com/Travisaurus-Rex/spotter)               | A simple and modern UI for Spotify - React, Spotify Web API                                |
+| [Musical Discovery](https://github.com/Travisaurus-Rex/sound_test)      | Find random music at the push of a button - jQuery, SoundCloud API (Access Cutoff)         |
+| [Grocery Control](https://github.com/Travisaurus-Rex/grocerycontrol)        | Mobile app that lets you track how much you're spending on your groceries - Angular, Ionic |
+| [4LF - 4 Legged Friends](https://github.com/Travisaurus-Rex/4lf) | A simple mobile app for finding a new furry friend - React Native                          |
+| [Pet Finder](https://github.com/Travisaurus-Rex/petfinder)             | Simple proxy that acts as middleware between 4LF and the Petfinder API - NodeJS            |
