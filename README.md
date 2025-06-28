@@ -8,14 +8,14 @@ I’ve worked across industries and teams, from rebuilding a massive JSP applica
 
 **Languages & Frameworks**  
 JavaScript, TypeScript, C#, HTML/CSS  
-React, Angular, Next.js, Node.js, .NET, Ruby on Rails
+React, Angular, Next.js, Node.js, .NET
 
 **Tools & Tech**  
 GitLab, AWS, Tailwind, PostgreSQL, REST APIs  
 Unit Testing, Agile/Scrum, CI/CD, UX/UI Design
 
 **Currently Exploring**  
-NextJS, React Native • Figma • Edge deployment • Accessibility • Performance profiling
+NextJS, React Native • Ruby/Rails • Figma • Edge deployment • Accessibility • Performance profiling
 
 ## 🏄‍♂️ When I’m Not Coding...
 
