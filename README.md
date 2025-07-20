@@ -15,7 +15,7 @@ GitLab, AWS, Tailwind, PostgreSQL, REST APIs
 Unit Testing, Agile/Scrum, CI/CD, UX/UI Design
 
 **Currently Exploring**  
-NextJS, React Native • Ruby/Rails • Figma • Edge deployment • Accessibility • Performance profiling
+NextJS, React Native • Python • Figma • Edge deployment • Accessibility • Performance profiling
 
 ## 🏄‍♂️ When I’m Not Coding...
 
