@@ -32,7 +32,7 @@ I'm a US citizen currently based in Indonesia, fully remote and async-friendly. 
 Feel free to reach out or follow along:
 
 - 📫 Email: tadamsdeveloper@gmail.com  
-- 🌐 Website/Portfolio: *Coming soon*  
+- 🌐 Website/Portfolio: [codedbytravis.com](https://www.codedbytravis.com)
 - 🧾 [LinkedIn](https://www.linkedin.com/in/travis-a-768637a2/)
 
 Let’s build something great.
