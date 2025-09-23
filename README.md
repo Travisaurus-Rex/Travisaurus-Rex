@@ -23,7 +23,7 @@ You’ll find me riding motorcycles through winding roads, lifting heavy things 
 
 ## 🛰 Remote & Ready
 
-I'm a US citizen currently based in Indonesia, fully remote and async-friendly. I love working with distributed teams and I thrive in collaborative environments where trust, curiosity, and ownership are key.
+I'm a US citizen working fully remote and async-friendly. I love working with distributed teams and I thrive in collaborative environments where trust, curiosity, and ownership are key.
 
 ---
 
