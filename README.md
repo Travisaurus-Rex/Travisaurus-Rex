@@ -1,8 +1,10 @@
 # 👋 Hi, I'm Travis Adams
 
-I'm a full-stack software engineer with a strong frontend focus and nearly a decade of experience turning legacy systems into modern web apps. I build fast, maintainable UIs and enjoy crafting thoughtful, intuitive user experiences—whether it's for internal tooling or public-facing products.
+I'm a full-stack software engineer with a strong frontend focus and nearly a decade of experience building and modernizing web applications. I specialize in refactoring legacy systems, converting monoliths to microservice architectures, and creating scalable apps with modern frontend frameworks.
 
-I’ve worked across industries and teams, from rebuilding a massive JSP application with .NET and Angular to leading frontend development on logistics platforms. I also freelance, tinker with creative projects, and spend a lot of time learning new tools to push my work further.
+I enjoy designing fast, maintainable UIs and crafting thoughtful, intuitive user experiences, whether for internal tools or public-facing products. I’ve worked across industries and teams, and I’m always exploring new technologies and approaches to make applications more efficient, resilient, and user-friendly.
+
+Outside of work, I freelance, experiment with creative projects, and continually expand my toolkit to push my work further.
 
 ## 💻 What I Work With
 
