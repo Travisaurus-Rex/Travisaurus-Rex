@@ -39,3 +39,5 @@ Feel free to reach out or follow along:
 
 Let’s build something great.
 
+![](https://komarev.com/ghpvc/?username=Travisaurus-Rex)
+
