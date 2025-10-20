@@ -9,7 +9,7 @@ Outside of work, I freelance, experiment with creative projects, and continually
 ## 💻 What I Work With
 
 **Languages & Frameworks**  
-JavaScript, TypeScript, C#, HTML/CSS  
+JavaScript, TypeScript, C#, Python, HTML/CSS  
 React, Angular, Next.js, Node.js, .NET
 
 **Tools & Tech**  
@@ -17,7 +17,7 @@ GitLab, AWS, Tailwind, PostgreSQL, REST APIs, Docker
 Unit Testing, Agile/Scrum, CI/CD, UX/UI Design
 
 **Currently Exploring**  
-NextJS, React Native • GoLang • Edge deployment • Accessibility • Performance profiling
+NextJS, React Native • GoLang • C++ • Edge deployment • Accessibility • Performance profiling
 
 ## 🏄‍♂️ When I’m Not Coding...
 
