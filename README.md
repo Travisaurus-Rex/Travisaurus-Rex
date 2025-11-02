@@ -10,14 +10,14 @@ Outside of work, I freelance, experiment with creative projects, and continually
 
 **Languages & Frameworks**  
 JavaScript, TypeScript, C#, HTML/CSS  
-React, Angular, Next.js, Node.js, .NET
+Angular, .NET, Node.js
 
 **Tools & Tech**  
 GitLab, AWS, Tailwind, PostgreSQL, REST APIs, Docker 
 Unit Testing, Agile/Scrum, CI/CD, UX/UI Design
 
 **Currently Exploring**  
-Python, React Native • GoLang • C++ • Edge deployment • Accessibility • Performance profiling
+Python, Rust, Unreal Engine
 
 ## 🏄‍♂️ When I’m Not Coding...
 
@@ -25,7 +25,7 @@ You’ll find me riding motorcycles through winding roads, lifting heavy things 
 
 ## 🛰 Remote & Ready
 
-I'm a US citizen working fully remote from Indonesia and async-friendly. I love working with distributed teams and I thrive in collaborative environments where trust, curiosity, and ownership are key.
+I love working with distributed teams and I thrive in collaborative environments where trust, curiosity, and ownership are key.
 
 ---
 
