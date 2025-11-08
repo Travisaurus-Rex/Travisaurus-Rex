@@ -25,7 +25,7 @@ You’ll find me riding motorcycles through winding roads, lifting heavy things 
 
 ## 🛰 Remote & Ready
 
-U.S. citizen with bases in both America and Indonesia — available for remote work across U.S. and Asia-Pacific time zones. I love working with distributed teams and I thrive in collaborative environments where trust, curiosity, and ownership are key.
+U.S. citizen with bases in both America and Indonesia -- available for remote work across U.S. and Asia-Pacific time zones. I love working with distributed teams and I thrive in collaborative environments where trust, curiosity, and ownership are key.
 
 ---
 
