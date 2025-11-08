@@ -9,8 +9,8 @@ Outside of work, I freelance, experiment with creative projects, and continually
 ## 💻 What I Work With
 
 **Languages & Frameworks**  
-JavaScript, TypeScript, C#, HTML/CSS  
-Angular, .NET, Node.js
+JavaScript, TypeScript, C#, GoLang, HTML/CSS  
+Angular, React, .NET, Node.js
 
 **Tools & Tech**  
 GitLab, AWS, Tailwind, PostgreSQL, REST APIs, Docker 
@@ -25,7 +25,7 @@ You’ll find me riding motorcycles through winding roads, lifting heavy things 
 
 ## 🛰 Remote & Ready
 
-I love working with distributed teams and I thrive in collaborative environments where trust, curiosity, and ownership are key.
+U.S. citizen with bases in both America and Indonesia — available for remote work across U.S. and Asia-Pacific time zones. I love working with distributed teams and I thrive in collaborative environments where trust, curiosity, and ownership are key.
 
 ---
 
