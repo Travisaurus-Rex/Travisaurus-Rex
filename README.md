@@ -9,15 +9,15 @@ Outside of work, I freelance, experiment with creative projects, and continually
 ## 💻 What I Work With
 
 **Languages & Frameworks**  
-JavaScript, TypeScript, C#, GoLang, HTML/CSS  
-Angular, React, .NET, Node.js
+JavaScript, TypeScript, C#, HTML/CSS  
+Angular, React, .NET, Node.js, Next.js
 
 **Tools & Tech**  
 GitLab, AWS, Tailwind, PostgreSQL, REST APIs, Docker 
 Unit Testing, Agile/Scrum, CI/CD, UX/UI Design
 
 **Currently Exploring**  
-Python, Rust, Unreal Engine
+Python, Go, Unreal Engine
 
 ## 🏄‍♂️ When I’m Not Coding...
 
