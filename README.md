@@ -1,57 +1,65 @@
 # Hi, I'm Travis Adams
 
-I’m a senior full-stack engineer with years of experience building and improving complex applications. Angular has been the foundation of my UI work, and I bring the same level of capability to React and other frameworks because my strength is in JavaScript and TypeScript themselves, not in any single tool.
+I’m a senior full-stack engineer focused on building clear, maintainable systems rather than chasing frameworks. I’ve spent years working across complex applications where correctness, structure, and long-term ownership mattered more than trends.
 
-On the backend, my approach is shaped by several years working with enterprise-scale .NET systems, where structure and architecture mattered. I now apply that background across modern ecosystems. Node and Nest.js are where I build most of my event-driven services and multi-layered APIs. When a system demands high concurrency or small, focused services, I turn to Go. Python has been part of my toolkit for a long time, and recently I’ve expanded that into FastAPI applications, automation work, and AI-assisted tools.
+My frontend background was shaped heavily by Angular, but my strength is not Angular itself — it’s JavaScript and TypeScript, component architecture, state management, and performance across modern UI ecosystems. I’m equally comfortable working in React and Next.js, and I’m increasingly drawn to Svelte for its simplicity, compiler-first model, and emphasis on clarity.
 
-Each technology plays a specific role in how I design systems. I choose the stack that fits the problem, the architecture, and the long-term goals of the project.
+On the backend, my approach comes from several years working with enterprise-scale .NET systems, where design decisions had real operational consequences. Today, I apply that mindset primarily through Node and Nest.js, building layered APIs, event-driven services, and systems designed to evolve. When concurrency, performance, or service isolation matter, I reach for Go.
+
+I choose tools intentionally. The stack serves the system — not the other way around.
 
 ---
 
 ## What I Work With
 
 **Frontend**  
-Angular, TypeScript, JavaScript, HTML, CSS  
-React+Next.js
+TypeScript, JavaScript, HTML, CSS  
+React, Next.js, Angular  
+Svelte (active exploration)
 
 **Backend**  
-Nest.js, Node.js, Go, Python with FastAPI, .NET and C#, REST, GraphQL, JWT authentication
+Node.js, Nest.js, Go  
+REST, GraphQL, authentication, authorization
 
-**Tools and Technologies**  
-Prisma, PostgreSQL, Docker, GitHub Actions, Redis, testing, version control, architectural planning
+**Data & Infrastructure**  
+PostgreSQL, Redis, Prisma  
+Docker, GitHub Actions, CI/CD
 
 **Additional Interests**  
+Web3 protocols, smart-contract interaction, on-chain data  
 Unreal Engine 5, automation, developer tooling
 
 ---
 
 ## What I Am Building Now
 
-### 1. Bazaar: Full-Stack Marketplace Platform
-A complete marketplace application built as a professional-grade full-stack project.
+### 1. Bazaar — Full-Stack Marketplace Platform
+A professional-grade marketplace built as a cohesive full-stack system.
 
 **Backend:**  
 Nest.js, Prisma, PostgreSQL  
-Features include authentication, role management, product listings, carts, orders, and reviews.  
-Structured in a way that emphasizes clarity, modularity, and long-term maintainability.
+Implements authentication, role-based access, product listings, carts, orders, and reviews.  
+Designed with modular boundaries and long-term maintainability in mind.
 
 **Frontend:**  
-Angular 21
-Uses standalone components, signals, and a clean organizational approach that pairs with the backend.
+Angular 21  
+Built using standalone components and modern Angular patterns, with a focus on clarity and scalability.
 
-Bazaar reflects how I approach full-stack engineering as a whole.
-
----
-
-### 2. Python with FastAPI for Automation and Note Processing
-A FastAPI backend focused on practical automation tasks such as text processing, transcription workflows, and TTS utilities.  
-Built to explore Python's strength in rapid prototyping, simple API creation, and productivity tools.
+Bazaar reflects how I approach real-world full-stack engineering: deliberate design, clear ownership, and systems that can grow without collapsing under their own complexity.
 
 ---
 
-### 3. Unreal Engine 5: Third-Person Adventure Project
-A creative project where I design gameplay systems, interaction logic, animation states, and event-driven mechanics.  
-This project is outside of web development but aligns with how I think about systems and interactive design.
+### 2. Move Mentor — Training & Progress Guidance Platform
+A product-focused application centered on workout tracking, progression, and long-term training insight.
+
+Move Mentor is designed to evolve beyond simple logging into a system that helps users understand trends, make better training decisions, and stay consistent over time. The project emphasizes thoughtful data modeling, extensible APIs, and a frontend experience that stays fast and focused as features grow.
+
+---
+
+### 3. Unreal Engine 5 — Third-Person Adventure Project
+A creative systems project focused on gameplay architecture, interaction logic, animation states, and event-driven mechanics.
+
+While outside traditional web development, this project mirrors how I think about software: modular systems, clear boundaries, and mechanics that interact predictably under pressure.
 
 ---
 
@@ -65,19 +73,14 @@ I enjoy creative work, especially anything involving horror or storytelling.
 ## Remote Availability
 
 I am a United States citizen with bases in both the US and Indonesia.  
-I am open to remote roles across US and Asia Pacific time zones. I'm fine with unorthodox work hours! 
+I’m open to remote roles across US and Asia Pacific time zones and comfortable with unorthodox work hours.  
 I work best in teams that value clarity, trust, and personal ownership of the work.
 
 ---
 
 ## Contact
 
-Email: tadamsdeveloper@gmail.com  
-Portfolio: https://www.codedbytravis.com  
-LinkedIn: https://www.linkedin.com/in/travis-a-768637a2/
-
-I am always open to conversations about interesting work and meaningful problems.
-
+Email: tadamsdeveloper@gmail.com
 
 ![](https://komarev.com/ghpvc/?username=Travisaurus-Rex)
 
