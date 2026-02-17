@@ -13,7 +13,6 @@ On the backend, my approach comes from several years working with enterprise-sca
 **Frontend**  
 TypeScript, JavaScript, HTML, CSS  
 React, Next.js, Angular  
-Svelte (active exploration)
 
 **Backend**  
 Node.js, Nest.js, Go  
@@ -24,41 +23,7 @@ PostgreSQL, Redis, Prisma
 Docker, GitHub Actions, CI/CD
 
 **Additional Interests**  
-Web3 protocols, smart-contract interaction, on-chain data  
-Unreal Engine 5, automation, developer tooling
-
----
-
-## What I Am Building Now
-
-### 1. Bazaar --- Full-Stack Marketplace Platform
-A professional-grade marketplace built as a cohesive full-stack system.
-
-**Backend:**  
-Nest.js, Prisma, PostgreSQL  
-Implements authentication, role-based access, product listings, carts, orders, and reviews.  
-Designed with modular boundaries and long-term maintainability in mind.
-
-**Frontend:**
-Angular 21, Svelte
-The UI began in Angular using standalone components and modern patterns. I’m actively migrating core surfaces to Svelte to take advantage of its compiler-first model and emphasis on simplicity and clarity.
-
-Bazaar reflects how I approach real-world full-stack engineering: deliberate design, clear ownership, and systems that can evolve without collapsing under their own complexity.
-
-
----
-
-### 2. Move Mentor --- Training & Progress Guidance Platform
-A product-focused application centered on workout tracking, progression, and long-term training insight.
-
-Move Mentor is designed to evolve beyond simple logging into a system that helps users understand trends, make better training decisions, and stay consistent over time. The project emphasizes thoughtful data modeling, extensible APIs, and a frontend experience that stays fast and focused as features grow.
-
----
-
-### 3. Unreal Engine 5 --- Third-Person Adventure Project
-A creative systems project focused on gameplay architecture, interaction logic, animation states, and event-driven mechanics.
-
-While outside traditional web development, this project mirrors how I think about software: modular systems, clear boundaries, and mechanics that interact predictably under pressure.
+Flutter
 
 ---
 
