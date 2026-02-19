@@ -1,10 +1,12 @@
 # Hi, I'm Travis Adams
 
-I’m a senior full-stack engineer focused on building clear, maintainable systems rather than chasing frameworks. I’ve spent years working across complex applications where correctness, structure, and long-term ownership mattered more than trends.
+I’m a frontend-focused full-stack engineer who spends most of his time in React, Next.js, and TypeScript building interfaces that are fast, clear, and built to last. I care about thoughtful component architecture, predictable state, and UI systems that don’t fall apart six months later.
 
-My frontend background was shaped heavily by Angular, but my strength is not Angular itself, it’s JavaScript and TypeScript, component architecture, state management, and performance across modern UI ecosystems. I’m equally comfortable working in React and Next.js, and I’m increasingly drawn to Svelte for its simplicity, compiler-first model, and emphasis on clarity.
+On the backend, I work primarily with Node and NestJS, designing APIs and services that stay simple on the surface but scale cleanly underneath. I enjoy shaping data models, tightening request flows, and making sure frontend and backend actually feel like they were designed together instead of stitched together.
 
-On the backend, my approach comes from several years working with enterprise-scale .NET systems, where design decisions had real operational consequences. Today, I apply that mindset primarily through Node and Nest.js, building layered APIs, event-driven services, and systems designed to evolve. When concurrency, performance, or service isolation matter, I reach for Go.
+Lately, I’ve been exploring Go more seriously. I’m drawn to its simplicity, explicitness, and performance model. It scratches the part of my brain that likes clarity and control, especially around concurrency and system design.
+
+I’m less interested in chasing whatever framework is trending and more interested in building products that people rely on every day. Clean systems, strong foundations, steady iteration. That’s the work I enjoy.
 
 ---
 
@@ -16,14 +18,14 @@ React, Next.js, Angular
 
 **Backend**  
 Node.js, Nest.js, Go  
-REST, GraphQL, authentication, authorization
+REST, GraphQL, Websockets
 
 **Data & Infrastructure**  
 PostgreSQL, Redis, Prisma  
 Docker, GitHub Actions, CI/CD
 
 **Additional Interests**  
-Flutter
+Flutter, coding AI-agents
 
 ---
 
